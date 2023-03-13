@@ -425,4 +425,13 @@ footer a {
     padding: 10px 10px;
     margin: 0;
   }
+
+  .hero-resume {
+    background-image: none;
+    padding: 20px 0;
+  }
+
+  .hero-resume h1 {
+    font-size: 30px;
+  }
 }
